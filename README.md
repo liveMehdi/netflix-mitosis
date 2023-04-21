@@ -3,7 +3,7 @@
 ![netflix](https://user-images.githubusercontent.com/128709167/233681030-6bc622ca-2c27-472f-b981-95fabc7a1649.png)
 
 ## About
-Netflix Mitosis is a Netflix clone which uses the TMDB API
+Netflix Mitosis is a Netflix clone which uses the TMDB API.
 
 https://netflix-mitosis.vercel.app/
 
