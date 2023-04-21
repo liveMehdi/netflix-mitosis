@@ -5,7 +5,7 @@
 ## About
 Netflix Mitosis is a Netflix clone which uses the TMDB API
 
-https://emerald-films.vercel.app/
+https://netflix-mitosis.vercel.app/
 
 ## Features
 * Viewing films by genre
